@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>assigned_to</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_490092_chorezero_chores</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual>roles= x_490092_chorezero.chores_user</reference_qual>
+        <reference_qual_override>true</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 15:18:20</sys_created_on>
+        <sys_id>ee88f3f82f332010003e2d6df699b6bd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="ChoreZero" source="x_490092_chorezero">2d03487c2ffb6410003e2d6df699b678</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChoreZero">2d03487c2ffb6410003e2d6df699b678</sys_scope>
+        <sys_update_name>sys_dictionary_override_ee88f3f82f332010003e2d6df699b6bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 15:33:47</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ChoreZero">2d03487c2ffb6410003e2d6df699b678</application>
+        <file_path/>
+        <instance_id>849cdbc0db0d77c00ae3ac44d49619e3</instance_id>
+        <instance_name>dev82637</instance_name>
+        <name>sys_dictionary_override_ee88f3f82f332010003e2d6df699b6bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>false</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>assigned_to</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_490092_chorezero_chores</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual>roles= x_490092_chorezero.chores_user</reference_qual><reference_qual_override>true</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-26 15:18:20</sys_created_on><sys_id>ee88f3f82f332010003e2d6df699b6bd</sys_id><sys_mod_count>3</sys_mod_count><sys_name>assigned_to</sys_name><sys_package display_value="ChoreZero" source="x_490092_chorezero">2d03487c2ffb6410003e2d6df699b678</sys_package><sys_policy/><sys_scope display_value="ChoreZero">2d03487c2ffb6410003e2d6df699b678</sys_scope><sys_update_name>sys_dictionary_override_ee88f3f82f332010003e2d6df699b6bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-26 15:33:47</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>-704759652</payload_hash>
+        <record_name>assigned_to</record_name>
+        <reverted_from/>
+        <source>4e43487c2ffb6410003e2d6df699b693</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 15:33:47</sys_created_on>
+        <sys_id>ac4cb7fc2f332010003e2d6df699b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1790ed0aef10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 15:33:47</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>a44cb7fc8f332010290922081c62065a</update_guid>
+        <update_guid_history>a44cb7fc8f332010290922081c62065a:-704759652,883c37fc2933201038d8cc55cc1d9f13:-1783229191,1e1c7bfcd0332010d5b3c53137dfc434:1351456828,16b8f7f826332010ca2967fbb42aa66b:2075067398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 15:41:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>a7f9d49d975b40539e8ea4cb665ff3a9</sys_id>
+        <sys_metadata>ee88f3f82f332010003e2d6df699b6bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assigned_to</sys_name>
+        <sys_package display_value="ChoreZero" source="x_490092_chorezero">2d03487c2ffb6410003e2d6df699b678</sys_package>
+        <sys_parent display_value="x_490092_chorezero_chores">491580b82f3f6410003e2d6df699b608</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ChoreZero">2d03487c2ffb6410003e2d6df699b678</sys_scope>
+        <sys_scope_delete display_value="">33a33fb7613949ce8b80f7819e17f2e4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_ee88f3f82f332010003e2d6df699b6bd</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_ee88f3f82f332010003e2d6df699b6bd">ac4cb7fc2f332010003e2d6df699b65a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 15:41:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
